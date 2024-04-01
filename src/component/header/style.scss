@@ -151,6 +151,10 @@
       background: rgba(0, 0, 0, 0.6);
       padding: 20px;
       animation: slidingX 0.3s ease forwards;
+
+      .userImage {
+        display: none;
+      }
     }
   }
 
